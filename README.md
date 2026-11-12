@@ -1,5 +1,13 @@
 # OEIS A097160: certified terms a(7)–a(12)
 
+<!-- oeis-status:begin -->
+**OEIS status** (lab registry, 13 Nov 2026):
+
+- [A097160](https://oeis.org/A097160), a(7)-a(12) of the greatest prime with exactly n consecutive quadratic residues: **proposed** (2026-11-12: proposed (draft); notes fixed and resubmitted). Certificate: complete.
+
+Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
+<!-- oeis-status:end -->
+
 [A097160](https://oeis.org/A097160): a(n) is the greatest prime p such that there are n, but not n+1, consecutive
 quadratic residues mod p (the longest run of consecutive nonzero quadratic residues in 1, …, p−1 has length exactly n).
 
