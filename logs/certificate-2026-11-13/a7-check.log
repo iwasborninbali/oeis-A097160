@@ -1,0 +1,9 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A097160
+command: python3 -B a7-proof/check.py
+exit: 0
+elapsed_seconds: 0.917
+
+PASS a(6) = 2153: endpoint maximum 6 at 28; 10028 primes in (2153, 108900]; Weil-cutoff margin 2522; largest witness endpoint 1957
+PASS a(7) = 4481: endpoint maximum 7 at 98; 48537 primes in (4481, 600625]; Weil-cutoff margin 3626; largest witness endpoint 5135
+PASS 8 file hashes; elapsed 0.867 seconds
+Mathematical input: Weil's standard bound, as stated and applied in result.md.

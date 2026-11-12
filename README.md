@@ -70,3 +70,5 @@ runs; the second full rescan (`logs/guide-check-a12.json`) produced exactly the 
 Aleksei Kudriashov (ORCID 0009-0006-8885-5338), Athanor lab, with AI assistance (OpenAI Codex cores; Claude Code as the
 lab's guide). Archived as part of Zenodo [10.5281/zenodo.24163515](https://doi.org/10.5281/zenodo.24163515)
 (athanor-number-theory v1.1, which also contains unrelated material). Code: MIT; data and text: CC BY 4.0 (see `LICENSE.md`).
+
+[Verification certificate](CERTIFICATE.md) and [prior-art record](PRIOR-ART.md).

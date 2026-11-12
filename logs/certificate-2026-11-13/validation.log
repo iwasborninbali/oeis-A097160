@@ -1,0 +1,27 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A097160
+command: python3 -B terms-a8-a12/validate.py
+exit: 1
+elapsed_seconds: 0.091
+
+Traceback (most recent call last):
+  File "/Users/iwasborninbali/projects/science/oeis-A097160/terms-a8-a12/validate.py", line 33, in <module>
+    invoke([ROOT/'scan',k,1000,2,cert,report,0])
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iwasborninbali/projects/science/oeis-A097160/terms-a8-a12/validate.py", line 13, in invoke
+    r=subprocess.run(list(map(str,args)),capture_output=True,text=True)
+  File "/opt/homebrew/Cellar/python@3.14/3.14.6/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 555, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.6/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 1039, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        pass_fds, cwd, env,
+                        ^^^^^^^^^^^^^^^^^^^
+    ...<5 lines>...
+                        gid, gids, uid, umask,
+                        ^^^^^^^^^^^^^^^^^^^^^^
+                        start_new_session, process_group)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.14/3.14.6/Frameworks/Python.framework/Versions/3.14/lib/python3.14/subprocess.py", line 1990, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/iwasborninbali/projects/science/oeis-A097160/terms-a8-a12/scan'

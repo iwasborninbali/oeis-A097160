@@ -1,0 +1,5 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A097160
+command: /tmp/c7-A097160/independent 9 3222025 full /Users/iwasborninbali/projects/science/oeis-A097160/terms-a8-a12/certificates/a8.tsv /tmp/c7-A097160/check-a8.json /tmp/c7-A097160/sample-a8.tsv
+exit: 0
+elapsed_seconds: 6.592
+

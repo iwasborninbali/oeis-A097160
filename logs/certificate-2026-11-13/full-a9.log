@@ -1,0 +1,6 @@
+cwd: /Users/iwasborninbali/projects/science/oeis-A097160
+command: /tmp/c7-A097160/independent 10 16801801 full /Users/iwasborninbali/projects/science/oeis-A097160/terms-a8-a12/certificates/a9.tsv /tmp/c7-A097160/check-a9.json /tmp/c7-A097160/sample-a9.tsv
+exit: 0
+elapsed_seconds: 62.386
+
+k=10 primes=1000000 checked=1000000 p=15485863 wall=57.598
