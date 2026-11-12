@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status** (lab registry, 13 Nov 2026):
 
-- [A097160](https://oeis.org/A097160), a(7)-a(12) of the greatest prime with exactly n consecutive quadratic residues: **proposed** (2026-11-12: proposed (draft); notes fixed and resubmitted). Certificate: complete.
+- [A097160](https://oeis.org/A097160), a(7)-a(12) of the greatest prime with exactly n consecutive quadratic residues: **proposed** (2026-11-13: gap found: no independent full scan of a(11); guide rescan started). Certificate: partial.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
