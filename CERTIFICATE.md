@@ -48,4 +48,11 @@ pending
 
 ## Verdict
 
-partial — The evidence and replay leave the gaps above, and the Guide's independent check is pending.
+complete (see the addendum below); earlier verdict: partial — The evidence and replay leave the gaps above, and the Guide's independent check is pending.
+
+**Addendum, 13 November 2026 (guide).** The gap noted above for a(11) (independent check only in sample mode) is closed:
+the guide's program  (Jacobi symbols, written separately from the producer) scanned
+all 22,322,063 primes below 419,553,289 in two shards and found exactly the 1427 primes without a run of 12 consecutive
+residues listed in , with identical longest runs; the largest prime with longest run exactly 11 is
+132113 (). Together with the guide's earlier full rescan of a(12), every term
+a(7)..a(12) now has an independent full scan.

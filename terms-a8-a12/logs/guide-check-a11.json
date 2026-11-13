@@ -1,0 +1,18 @@
+{
+ "check": "Guide's independent full rescan of a(11)",
+ "program": "terms-a8-a12/guide_check_qrrun2.c",
+ "k": 12,
+ "N": 419553289,
+ "shards": 2,
+ "primes_per_shard": [
+  11161032,
+  11161031
+ ],
+ "host": "Apple Silicon Mac, one process per shard, nice 10",
+ "started": "2026-11-13 06:05 WITA",
+ "finished": "2026-11-13 10:48 WITA",
+ "exceptional_primes": 1427,
+ "a11": 132113,
+ "exception_list_sha256_prime_run_sorted": "b8cfcef9e81aa28e441d7d8ce412a89108b5f9d1c6f45fff10157c41f3bb5416",
+ "matches_primary_certificate": "certificates/a11.tsv, columns (prime, longest_run), all 1427 rows identical"
+}
