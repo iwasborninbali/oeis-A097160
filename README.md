@@ -3,7 +3,7 @@
 <!-- oeis-status:begin -->
 **OEIS status** (lab registry, 15 Nov 2026):
 
-- [A097160](https://oeis.org/A097160), a(7)-a(12) of the greatest prime with exactly n consecutive quadratic residues: **proposed** (2026-11-13: gap closed: guide full rescan of a(11) identical to the certificate). Certificate: complete.
+- [A097160](https://oeis.org/A097160), a(7)-a(12) of the greatest prime with exactly n consecutive quadratic residues: **proposed** (2026-11-15: reply in the discussion, the owner's approved text (posted Sat Nov 14 16:14 EST): Zenodo duplicate removed, links alphabetical, Buell-Hudson relevance, a(7)-a(12) certified in the repository). Certificate: complete.
 
 Rules and the full registry: [athanor-oeis](https://github.com/iwasborninbali/athanor-oeis/blob/main/REGISTRY.md).
 <!-- oeis-status:end -->
